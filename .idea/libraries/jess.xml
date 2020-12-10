@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jess">
+    <CLASSES>
+      <root url="jar://E:/faculty/fourth year/KBS/Jess71p2/lib/jess.jar!/" />
+      <root url="jar://E:/faculty/fourth year/KBS/Jess71p2/lib/jsr94.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
